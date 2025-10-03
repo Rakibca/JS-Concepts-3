@@ -5,7 +5,7 @@ const studentDetails = {
   country: 'sri lanka',
   email: 'j.siri@totalinternet.com',
   discordUsername: 'JS1',
-  modulesCompleted: ['html', 'js', 'css'], // added as part of the challenge
+  modulesCompleted: ['html', 'js', 'css'], // this line added as part of the challenge below
 };
 
 const studentDetailsCopy = {};
